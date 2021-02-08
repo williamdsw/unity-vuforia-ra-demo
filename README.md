@@ -1,5 +1,3 @@
-# unity-vuforia-ra-demo
-
 # Vuforia AR demo project with Unity
 
 Demo project using Vuforia AR with Unity based on [this video](https://www.youtube.com/watch?v=euXgmj04SMQ).
